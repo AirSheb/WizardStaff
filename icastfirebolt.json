@@ -2,7 +2,6 @@
   "type": "micro",
   "wake_word": "I Cast Fire Bolt",
   "author": "Sheb",
-  "website": "https://www.home-assistant.io",
   "model": "icastfirebolt.tflite",
   "trained_languages": [
       "en"
