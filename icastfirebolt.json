@@ -3,6 +3,7 @@
   "wake_word": "ICastFireBolt",
   "author": "Sheb",
   "model": "icastfirebolt.tflite",
+  "website": "https://www.home-assistant.io",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
