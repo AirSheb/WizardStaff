@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Prestigitation",
   "author": "Sheb",
-  "model": "presigitation.tflite",
+  "model": "presto.tflite",
   "trained_languages": [
       "en"
   ],
