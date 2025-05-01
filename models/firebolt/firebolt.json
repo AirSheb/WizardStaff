@@ -1,14 +1,14 @@
 {
   "type": "micro",
-  "wake_word": "I Cast Fire Bolt",
+  "wake_word": "Firebolt",
   "author": "Sheb",
-  "model": "icastfirebolt.tflite",
+  "model": "firebolt.tflite",
   "trained_languages": [
       "en"
   ],
   "version": 2,
   "micro": {
-      "probability_cutoff": 0.985,
+      "probability_cutoff": 0.99,
       "feature_step_size": 10,
       "sliding_window_size": 3,
       "tensor_arena_size": 32000,
